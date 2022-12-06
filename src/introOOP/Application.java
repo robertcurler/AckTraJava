@@ -80,6 +80,8 @@ public class Application {
 		int verkrijgLeeftijd = scanner.nextInt();
 		kyle.leeftijd = verkrijgLeeftijd;
 		System.out.println("De persoon is "+kyle.leeftijd+" jaar.");
+		
+		System.out.println("Deze regels staan alleen in de intoOOPmyfirstbranch branch.");
 	}
 
 }
